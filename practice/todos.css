@@ -1,0 +1,10 @@
+li {
+	border: 2px solid red;
+}
+
+#special {
+	background: yellow;
+}
+.test {
+	text-decoration: line-through;
+}
